@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslap_kommerce_web=self.webpackChunkslap_kommerce_web||[]).push([[95],{8655:function(e,l,a){a.r(l);var u=a(7294),c=a(8897);l.default=()=>u.createElement(c.default,null)}}]);
+//# sourceMappingURL=component---src-pages-kahdeltransformationservices-index-tsx-07493bed50f342647d37.js.map
